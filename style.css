@@ -60,6 +60,19 @@ a:hover {
   width: 270px;
   height: 270px;
 }
+/* Remplacement des images de texte par du texte */
+.custom-blockquote {
+  border: none;
+  margin-top: 2em;
+}
+.custom-blockquote p {
+  font-size: 1em;
+  font-style: italic;
+}
+.custom-blockquote cite {
+  font-style: normal;
+  color: #575757;
+}
 
 .bg-center,
 .bg-l-edge,
