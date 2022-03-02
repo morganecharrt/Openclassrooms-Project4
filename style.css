@@ -720,7 +720,10 @@ p {
   font-weight: 700;
 }
 
-.social {
+.social-twitter,
+.social-instagram,
+.social-dribble,
+.social-instagram {
   max-width: 400px;
   margin: auto auto 10px auto;
 }
